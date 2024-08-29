@@ -1,4 +1,4 @@
-***REMOVED***
+spring:
   application:
     name: SEN-ECOLE-PRIMAIRE
 #  profiles:
