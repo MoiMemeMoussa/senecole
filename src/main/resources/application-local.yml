@@ -13,4 +13,5 @@ spring:
 #    url: jdbc:h2:file:C:\Users\moime\IdeaProjects\jangue\src\main\resources
     driverClassName: org.h2.Driver
     username: sa
-    password: jeTeste
+    password: senegal
+
