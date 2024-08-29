@@ -1,16 +1,16 @@
-***REMOVED***
-***REMOVED***
+server:
+  port: 9090
 
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
+spring:
+  h2:
+    console.enabled: true
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: update
+  datasource:
+    url: jdbc:h2:mem:elementaire_db
+#    url: jdbc:h2:file:C:\Users\moime\IdeaProjects\jangue\src\main\resources
+    driverClassName: org.h2.Driver
+    username: sa
     password: jeTeste
