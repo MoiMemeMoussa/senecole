@@ -1,5 +1,5 @@
 server:
-  port: ***REMOVED***
+  port: 9090
 
 spring:
   h2:
